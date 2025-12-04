@@ -9,7 +9,7 @@
 Ek simple lekin powerful chatbot jo **gpt-4o-mini** use karta hai aur poori baat-cheet yaad rakhta hai (chat history with memory).
 
 Live Demo (after deploy): Coming Soon  
-Made with love by **Mariyam Siddiqui**
+Made with love by ***Mariyam Siddiqui***
 
 ---
 
